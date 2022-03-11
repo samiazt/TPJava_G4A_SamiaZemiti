@@ -1,4 +1,4 @@
-package com.isep.rpg;
+package com.isep.utils;
 
 public class inputParser {
 }
