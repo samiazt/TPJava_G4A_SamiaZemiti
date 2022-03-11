@@ -9,9 +9,9 @@ public class Game {
     private int playerTurn;
     private com.isep.utils.inputParser inputParser;
 
-    public static void playgame(){
+    public void playgame(){
     }
-    public static void generateCombat() {
+    public void generateCombat() {
     }
 
 }

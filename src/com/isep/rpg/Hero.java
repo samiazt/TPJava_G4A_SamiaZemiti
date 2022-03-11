@@ -9,11 +9,13 @@ public abstract class Hero {
     private List<Potion> potions;
     private List<Food> lembas ;
 
-    protected Hero() {
-    }
+    private String name;
 
-    public void attack(){
+    public void attack(String name){
+        this.name = name;
     }
+    public String getName(){return name;}
+
     public void defend(){
     }
     public void useComsumable(Consumable consumable){
