@@ -9,7 +9,11 @@ public abstract class Hero {
     private List<Potion> potions;
     private List<Food> lembas ;
 
-    private String name;
+    String name;
+
+    public Hero(String name) {
+
+    }
 
     public void attack(String name){
         this.name = name;
