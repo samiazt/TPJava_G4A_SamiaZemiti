@@ -1,6 +1,7 @@
 package com.isep.rpg;
 
 import java.util.List;
+import java.util.Scanner;
 
 public abstract class Hero {
     private int LifePoints;
@@ -9,8 +10,6 @@ public abstract class Hero {
     private List<Potion> potions;
     private List<Food> lembas ;
 
-    protected Hero() {
-    }
 
     public void attack(){
     }
