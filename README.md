@@ -7,7 +7,7 @@ Une partie se comporte de plusieurs combats, jusqu’à la défaite de l’é
 Chaque classe a des attaques différentes. Le Hunter tire des flèches (jusqu’à n’en plus avoir), le Warrior tape frappe au corps à corps, le Healer soigne avec des sorts tandis que le Mage utilise la magie contre les ennemis.  
 Si l’équipe gagne un combat, chaque personnage peut choisir entre plusieurs options :  
   
-• augmentersonarmure;  
+• augmenter son armure;  
 • augmenter les dégâts de son arme ;  
 • augmenter l’eﬀicacité de la potion et de la nourriture ;  
 • augmenter le nombre de potions ou de nourriture ;  
