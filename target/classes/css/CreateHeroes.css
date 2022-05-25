@@ -1,0 +1,48 @@
+.root {
+    -fx-background-image: url('../images/background/CreationHeros.jpeg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+}
+
+.label {
+    -fx-font: bold 24px BiauKai;
+    -fx-padding: 20px;
+}
+
+.button {
+    -fx-cursor: hand;
+    -fx-font: bold 24px BiauKai;
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/background/Bouton.png');
+    -fx-background-position: center;
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+}
+
+.text-field {
+    -fx-font: 24px BiauKai;
+    -fx-background-color: transparent;
+    -fx-background-image: url('../images/background/TextField.png');
+    -fx-background-position: center;
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+}
+
+.toggle-button {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-opacity: 0.5;
+}
+
+.toggle-button:hover{
+    -fx-opacity: 1.0;
+}
+
+#pading1 {
+    -fx-padding-top: 20px;
+}
+
+#pading2 {
+    -fx-padding: 30px 20px 0 0;
+}
