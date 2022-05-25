@@ -1,6 +1,6 @@
 # Mini RPG Lite 3000
 
-##Fonctionnement
+##Fonctionnement ( Jeu Samour)
 
 Au début d’une partie, on choisit le nombre de héros. Cela déterminera le nombre d’ennemis à affronter par tour. Ensuite, on choisit la classe de nos héros : ils peuvent être Hunter, Warrior, Mage ou Healer. Chaque héros possède une arme et une armure, ainsi que des potions et de la nourriture.
 Une partie se comporte de plusieurs combats, jusqu’à la défaite de l’équipe. À chaque nouveau combat, il est possible de tomber sur un boss. Pendant un combat, chaque joueur peut décider d’attaquer, de se défendre, ou bien même d’utiliser un consommable, comme manger du lembas ou boire une potion. L’ordre d’attaque des joueurs et des ennemis est déterminé aléatoirement au début de chaque combat.
