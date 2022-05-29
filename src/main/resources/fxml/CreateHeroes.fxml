@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" spacing="10.0" stylesheets="@../css/CreateHeroes.css" xmlns="http://javafx.com/javafx/17.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.isep.CreateHeroes">
+   <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="92.0" prefWidth="540.0" text="Choose the number of heroes who will participate in the adventure!" textAlignment="CENTER" wrapText="true" />
+   <Button mnemonicParsing="false" onAction="#oneHero" prefHeight="42.0" prefWidth="180.0" text="1" />
+   <Button mnemonicParsing="false" onAction="#twoHeroes" prefHeight="42.0" prefWidth="180.0" text="2" />
+   <Button mnemonicParsing="false" onAction="#threeHeroes" prefHeight="42.0" prefWidth="180.0" text="3" />
+   <Button mnemonicParsing="false" onAction="#fourHeroes" prefHeight="42.0" prefWidth="180.0" text="4" />
+</VBox>
